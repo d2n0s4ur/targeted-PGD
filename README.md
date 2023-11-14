@@ -1,2 +1,2 @@
-# untargeted-PGD
-[SMRT336] untargeted PGD attack on LeNet5
+# targeted-PGD
+[SMRT336] targeted PGD attack on LeNet5
