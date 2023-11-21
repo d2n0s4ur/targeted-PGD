@@ -36,6 +36,9 @@ The results of the targeted FGSM attack on the LeNet5 model are shown below:
 
 ## References
 [1] [Multiclass ASMA vs Targeted PGD Attack in Image Segmentation](https://arxiv.org/pdf/2208.01844.pdf)
+
 [2] [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
+
 [3] [ADVERSARIAL EXAMPLE GENERATION](https://pytorch.org/tutorials/beginner/fgsm_tutorial.html)
+
 [4] [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533)
